@@ -1,0 +1,20 @@
+{
+  "name": "jss-plugin-combine",
+  "version": "1.0.0",
+  "description": "combines class names including dynamic values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronn9419/jss-plugin-combine.git"
+  },
+  "keywords": [],
+  "author": "Ronald Gipa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronn9419/jss-plugin-combine/issues"
+  },
+  "homepage": "https://github.com/ronn9419/jss-plugin-combine#readme"
+}
